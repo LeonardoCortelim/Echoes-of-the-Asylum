@@ -8,7 +8,6 @@
 ##  Sobre o jogo
 
 **Echoes of the Asylum** é um jogo de **terror psicológico e sobrevivência** em primeira pessoa, feito na Unity.
-
 Esta é uma versão **pré-alfa**, voltada para testes iniciais de jogabilidade, movimentação e ambientação.  
 O conteúdo pode mudar conforme o desenvolvimento avança.
 
