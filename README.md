@@ -1,5 +1,10 @@
 # 👁️ Echoes of the Asylum
 
+
+ **Idioma / Language:**  
+🇧🇷 [Português](README.md) | 🇺🇸 [English](README.en.md)
+
+
  **Pré-Alfa disponível para download!**  
  [Clique aqui para baixar](https://github.com/LeonardoCortelim/Echoes-of-the-Asylum/releases)
 
