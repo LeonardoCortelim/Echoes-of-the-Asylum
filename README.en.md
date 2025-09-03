@@ -7,7 +7,7 @@
  **Pre-Alpha available for download!**  
  [Click here to download](https://github.com/LeonardoCortelim/Echoes-of-the-Asylum/releases) V0.8
 
- 📖 [Explore the Complete Wiki of the Game](https://github.com/LeonardoCortelim/Echoes-of-the-Asylum/wiki)
+ 📖 [Explore the Complete Wiki of the Game](https://github.com/LeonardoCortelim/Echoes-of-the-Asylum/wiki/Home%E2%80%90En)
 
 
 ---
