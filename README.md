@@ -1,7 +1,7 @@
 # 👁️ Echoes of the Asylum
 
 **Idioma / Language:**  
-🇧🇷 [Português](README.md) | 🇺🇸 [English](README.en.md) | 🇷🇺 [Русский](readm.ru.md)
+🇧🇷 [Português](README.md) | 🇺🇸 [English](README.en.md) | 🇷🇺 [Русский](Readm.ru.md)
 
 
 
