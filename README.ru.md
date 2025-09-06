@@ -7,7 +7,7 @@
 
 ## 📥 Пре-альфа доступна для загрузки!
 
-[Нажмите здесь, чтобы скачать](https://github.com/LeonardoCortelim/Echoes-of-the-Asylum/releases) **V0.8**
+[Нажмите здесь, чтобы скачать](https://github.com/LeonardoCortelim/Echoes-of-the-Asylum/releases) **V0.9**
 
 📖 [Изучите полную вики игры](https://github.com/LeonardoCortelim/Echoes-of-the-Asylum/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F)
 
